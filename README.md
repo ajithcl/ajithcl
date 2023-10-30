@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ajith kumar CL
 - 👀 I’m interested in Programming and Photography.
-- 🌱 I’m currently learning Datascience and Machine learning.
+- 🌱 I’m currently learning Datascience, Machine learning, Python and Angular.
 - 💞️ I’m looking to collaborate on Datascience problem solving.
 - 📫 How to reach me ...LinkedIn: https://www.linkedin.com/in/ajith-kumar-c-l-12798319/ 
                         Gmail :  clajith@gmail.com
