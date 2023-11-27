@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Datascience problem solving.
 - 📫 How to reach me ...LinkedIn: https://www.linkedin.com/in/ajith-kumar-c-l-12798319/ 
                         Gmail :  clajith@gmail.com
-                        Website : www.ajithsphotos.com
                         Instagram @ajithcl
 
 <!---
